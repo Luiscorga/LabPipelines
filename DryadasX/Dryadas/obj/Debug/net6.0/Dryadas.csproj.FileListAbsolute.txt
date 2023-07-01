@@ -1,0 +1,870 @@
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\Judith\source\repos\Dryadas\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\luisd\Desktop\JUDITH\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\vfons\Downloads\Dryadas-main\Dryadas-main\DryadasX\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\luisc\source\repos\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\Judith\Desktop\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\vfons\Code\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\luisc\OneDrive\Desktop\Repo del proyecto Dryadas\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\cositas2\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\appsettings.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.exe
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.deps.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.runtimeconfig.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Dryadas.pdb
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.AssemblyReference.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfoInputs.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.AssemblyInfo.cs
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CoreCompileInputs.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.Dryadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.build.Dryadas.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dryadas.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dryadas.props
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\scopedcss\bundle\Dryadas.styles.css
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.csproj.CopyComplete
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\refint\Dryadas.dll
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.pdb
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\Dryadas.genruntimeconfig.cache
+C:\Users\hanns\Desktop\I Semestre, 4° año\Proyecto Integrador\ultimaEntrega\Dryadas\DryadasX\Dryadas\obj\Debug\net6.0\ref\Dryadas.dll
