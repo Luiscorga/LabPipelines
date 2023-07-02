@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44428",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\luisc\\source\\repos\\Lab 7 repo\\LabPipelines\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

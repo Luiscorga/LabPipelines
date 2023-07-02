@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RnKSkzdNJ55JYACwnAxGmnSwIfSuFHKwtjnpB0Qo/h6sDe4fZ8VkyvL/oZU1JkPHXxuPQItXhO6MY06ZHkaNeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisc\\source\\repos\\Lab 7 repo\\LabPipelines\\FrontFicus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisc\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
