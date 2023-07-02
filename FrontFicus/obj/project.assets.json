@@ -47,11 +47,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisc\\source\\repos\\Lab 7 repo\\LabPipelines\\FrontFicus.csproj",
+      "projectUniqueName": "C:\\Users\\luisc\\source\\repos\\Lab 7 repo\\LabPipelines\\FrontFicus\\FrontFicus.csproj",
       "projectName": "FrontFicus",
-      "projectPath": "C:\\Users\\luisc\\source\\repos\\Lab 7 repo\\LabPipelines\\FrontFicus.csproj",
+      "projectPath": "C:\\Users\\luisc\\source\\repos\\Lab 7 repo\\LabPipelines\\FrontFicus\\FrontFicus.csproj",
       "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisc\\source\\repos\\Lab 7 repo\\LabPipelines\\obj\\",
+      "outputPath": "C:\\Users\\luisc\\source\\repos\\Lab 7 repo\\LabPipelines\\FrontFicus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config",
