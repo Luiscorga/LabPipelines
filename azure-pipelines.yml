@@ -17,9 +17,10 @@ variables:
 steps:
 
 - script: |
-    dotnet --version
+    echo $(DotNetCoreSDKVersion)
   displayName: 'Check .NET Core SDK Version'
-  
+
+
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2
