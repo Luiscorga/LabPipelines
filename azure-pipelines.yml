@@ -26,6 +26,12 @@ steps:
 - script: |
     echo $(DotNetCoreSDKVersion)
   displayName: 'Check .NET Core SDK Version'
+  
+  - task: Npm@1
+  inputs:
+    command: 'install'
+    workingDir: '$(Build.SourcesDirectory)/ClientApp' # Path to the folder containing package.json
+
 
 - task: VSBuild@1
   inputs:
