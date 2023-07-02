@@ -1,0 +1,1 @@
+﻿export default class utils { baseURL = 'https://localhost:7014/api' }
